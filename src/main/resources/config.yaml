@@ -6,3 +6,4 @@ kumuluzee:
   server:
     http:
       port: 8081
+
